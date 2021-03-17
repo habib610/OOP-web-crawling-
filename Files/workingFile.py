@@ -3,5 +3,5 @@
 # fp.close()
 
 
-with open("test.txt","a") as f:
+with open("../test.txt", "a") as f:
     f.write("hello this is python file. I am very excited working with files\n")
